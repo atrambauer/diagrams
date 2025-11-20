@@ -4,28 +4,28 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="J2bnRPMvZjfoDxgHeNdH-20" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=23;" vertex="1" parent="1">
+        <mxCell id="J2bnRPMvZjfoDxgHeNdH-20" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=23;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="110" y="70" width="650" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="J2bnRPMvZjfoDxgHeNdH-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="J2bnRPMvZjfoDxgHeNdH-1" target="J2bnRPMvZjfoDxgHeNdH-4">
+        <mxCell id="J2bnRPMvZjfoDxgHeNdH-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="J2bnRPMvZjfoDxgHeNdH-1" target="J2bnRPMvZjfoDxgHeNdH-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J2bnRPMvZjfoDxgHeNdH-1" value="Tanque&lt;div&gt;Entrada&lt;br&gt;&lt;div&gt;4000 lt&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="J2bnRPMvZjfoDxgHeNdH-1" value="Tanque&lt;div&gt;Entrada&lt;br&gt;&lt;div&gt;4000 lt&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="150" y="340" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="J2bnRPMvZjfoDxgHeNdH-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J2bnRPMvZjfoDxgHeNdH-2" target="J2bnRPMvZjfoDxgHeNdH-3">
+        <mxCell id="J2bnRPMvZjfoDxgHeNdH-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="J2bnRPMvZjfoDxgHeNdH-2" target="J2bnRPMvZjfoDxgHeNdH-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J2bnRPMvZjfoDxgHeNdH-2" value="Tanque&lt;div&gt;Salida&lt;br&gt;&lt;div&gt;4000 lt&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="J2bnRPMvZjfoDxgHeNdH-2" value="Tanque&lt;div&gt;Salida&lt;br&gt;&lt;div&gt;4000 lt&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="350" y="340" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="J2bnRPMvZjfoDxgHeNdH-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J2bnRPMvZjfoDxgHeNdH-3" target="J2bnRPMvZjfoDxgHeNdH-2">
+        <mxCell id="J2bnRPMvZjfoDxgHeNdH-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="J2bnRPMvZjfoDxgHeNdH-3" target="J2bnRPMvZjfoDxgHeNdH-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J2bnRPMvZjfoDxgHeNdH-3" value="Tanque&lt;div&gt;&lt;div&gt;Salida&amp;nbsp;&lt;/div&gt;&lt;div&gt;4000 lt&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="J2bnRPMvZjfoDxgHeNdH-3" value="Tanque&lt;div&gt;&lt;div&gt;Salida&amp;nbsp;&lt;/div&gt;&lt;div&gt;4000 lt&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="240" y="340" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="J2bnRPMvZjfoDxgHeNdH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J2bnRPMvZjfoDxgHeNdH-4" target="J2bnRPMvZjfoDxgHeNdH-3">
+        <mxCell id="J2bnRPMvZjfoDxgHeNdH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="J2bnRPMvZjfoDxgHeNdH-4" target="J2bnRPMvZjfoDxgHeNdH-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="230" y="350" as="targetPoint" />
             <Array as="points">
@@ -34,22 +34,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="J2bnRPMvZjfoDxgHeNdH-4" value="O" style="swimlane;startSize=0;" vertex="1" parent="1">
+        <mxCell id="J2bnRPMvZjfoDxgHeNdH-4" value="O" style="swimlane;startSize=0;" parent="1" vertex="1">
           <mxGeometry x="190" y="110" width="80" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="J2bnRPMvZjfoDxgHeNdH-5" value="Planta Osmosis 1000 lt/h" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="J2bnRPMvZjfoDxgHeNdH-4">
+        <mxCell id="J2bnRPMvZjfoDxgHeNdH-5" value="Planta Osmosis 1000 lt/h" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="J2bnRPMvZjfoDxgHeNdH-4" vertex="1">
           <mxGeometry x="10" y="70" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J2bnRPMvZjfoDxgHeNdH-12" value="Tanque&lt;div&gt;Riego&lt;br&gt;&lt;div&gt;2000 lt&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="J2bnRPMvZjfoDxgHeNdH-12" value="Tanque&lt;div&gt;Riego&lt;br&gt;&lt;div&gt;2000 lt&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="470" y="340" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="J2bnRPMvZjfoDxgHeNdH-13" value="BOMBA POZO" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="J2bnRPMvZjfoDxgHeNdH-13" value="BOMBA POZO" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="510" as="sourcePoint" />
             <mxPoint x="189.5" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J2bnRPMvZjfoDxgHeNdH-14" value="Retorno osmosis a riego??" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.515;entryY=-0.077;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="J2bnRPMvZjfoDxgHeNdH-4" target="J2bnRPMvZjfoDxgHeNdH-12">
+        <mxCell id="J2bnRPMvZjfoDxgHeNdH-14" value="Retorno osmosis a riego??" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.515;entryY=-0.077;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="J2bnRPMvZjfoDxgHeNdH-4" target="J2bnRPMvZjfoDxgHeNdH-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="220" y="320" />
@@ -57,21 +57,21 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="J2bnRPMvZjfoDxgHeNdH-15" value="Torre de enfriado" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="J2bnRPMvZjfoDxgHeNdH-15" value="Torre de enfriado" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="590" y="340" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="J2bnRPMvZjfoDxgHeNdH-16" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="J2bnRPMvZjfoDxgHeNdH-16" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="629.5" y="510" as="sourcePoint" />
             <mxPoint x="629.5" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J2bnRPMvZjfoDxgHeNdH-17" value="BOMBA POZO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="J2bnRPMvZjfoDxgHeNdH-16">
+        <mxCell id="J2bnRPMvZjfoDxgHeNdH-17" value="BOMBA POZO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="J2bnRPMvZjfoDxgHeNdH-16" vertex="1" connectable="0">
           <mxGeometry x="-0.0088" y="-5" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J2bnRPMvZjfoDxgHeNdH-19" value="A UNIDAD COMPRESORA" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="J2bnRPMvZjfoDxgHeNdH-19" value="A UNIDAD COMPRESORA" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="629.5" y="330" as="sourcePoint" />
             <mxPoint x="629.5" y="210" as="targetPoint" />
@@ -80,30 +80,30 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="J2bnRPMvZjfoDxgHeNdH-21" value="ADENTRO PLANTA HIELO" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+        <mxCell id="J2bnRPMvZjfoDxgHeNdH-21" value="ADENTRO PLANTA HIELO" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="380" y="110" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="J2bnRPMvZjfoDxgHeNdH-23" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="J2bnRPMvZjfoDxgHeNdH-23" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="509.5" y="510" as="sourcePoint" />
             <mxPoint x="509.5" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J2bnRPMvZjfoDxgHeNdH-24" value="BOMBA POZO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="J2bnRPMvZjfoDxgHeNdH-23">
+        <mxCell id="J2bnRPMvZjfoDxgHeNdH-24" value="BOMBA POZO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="J2bnRPMvZjfoDxgHeNdH-23" vertex="1" connectable="0">
           <mxGeometry x="-0.0088" y="-5" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J2bnRPMvZjfoDxgHeNdH-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="J2bnRPMvZjfoDxgHeNdH-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="500" width="460" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="J2bnRPMvZjfoDxgHeNdH-26" value="A EVAPORADOR" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="J2bnRPMvZjfoDxgHeNdH-26" value="A EVAPORADOR" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="330" y="370" as="sourcePoint" />
             <mxPoint x="330" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J2bnRPMvZjfoDxgHeNdH-27" value="A OFICINAS" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="J2bnRPMvZjfoDxgHeNdH-27" value="A OFICINAS" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="330" y="410" as="sourcePoint" />
             <mxPoint x="430" y="550" as="targetPoint" />
